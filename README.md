@@ -83,7 +83,7 @@ If you are interested to know more about me head for LinkedIn or Twitter and to 
     <a href="https://github.com/anvit1618">
         <img align="left" alt="anvit's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
     </a>
-    <a href="https://www.youtube.com/channel/UCJ3giAOL-ycnqLDCA96AJag">
+    <a href="https://www.youtube.com/channel/UCtod0cyzPDfuv5WIpytDDNw">
         <img align="left" alt="anvit's Team Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
     </a>
 </p>
