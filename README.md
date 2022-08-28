@@ -59,7 +59,6 @@
 ## 🔥 Github stats
 <p align="center">
   <a href="https://github.com/anvit1618"><span>
-    <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=anvit1618&theme=nightowl&hide_border=true"/>
     <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anvit1618&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=nightowl&hide_border=true"/>
     </span></a>
  </p>
