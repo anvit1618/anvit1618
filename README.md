@@ -9,10 +9,8 @@
 - 👨🏻‍💻 I am a Cyber Security passionate!
 - 🌱 I’m currently learning everything 😬.
 - 🥅 Goals: Protect people and give them privacy in digital world.
-- 💼 I’m looking for Internship/Full-Time(PPO) Opportunities/roles.
-- 🧠 Proud member of Team Pi.
 - ⚡ Fun fact: I love to edit videos.
-- 😄 Pronouns: He/His.
+
 <br />
 
 ## 🏆 GitHub Profile Trophy:
