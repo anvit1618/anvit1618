@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2329DFAD&duration=4000&center=true&lines=Student;Developer;Video+Editor;Computer+Sassy;Cyber+Security+Passionate)](https://git.io/typing-svg)
 </div>
 
-- 👷 Currently pursuing B.Tech in Computer Science Engineering(2019-2023)
+- 👷 Currently pursuing Master in Cyber Security (2023-2025)
 - 👨🏻‍💻 I am a Cyber Security passionate!
 - 🌱 I’m currently learning everything 😬.
 - 🥅 Goals: Protect people and give them privacy in digital world.
